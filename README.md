@@ -1,0 +1,5 @@
+- Input shape: 512 x 512 x 3 (Color Image - RGB)
+- Object Classes: \[ 'Origin', 'Recaptured' ]
+- Output: \[a,b]
+  - a: Probability of class 'Origin'
+  - b: Probability of class 'Recaptured'
